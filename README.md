@@ -1,7 +1,5 @@
 # Python-and-network-security-bootcamp-project
 
-PYTHON AND NETWORK SECURITY BOOTCAMP
-
 Project 1 is:-
 Write a program in python to generate md5 of string data
 
